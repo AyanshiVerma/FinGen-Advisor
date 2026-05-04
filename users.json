@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Diya",
+        "age": 20,
+        "goal": "medium term",
+        "monthly_investment": 1000.0,
+        "years": 2,
+        "target_amount": 20000.0
+    },
+    {
+        "name": "Diya",
+        "age": 20,
+        "goal": "medium",
+        "monthly_investment": 2000.0,
+        "years": 2,
+        "target_amount": 100000.0
+    }
+]
